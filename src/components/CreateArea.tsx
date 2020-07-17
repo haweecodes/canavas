@@ -7,7 +7,10 @@ export default class CreateArea extends Component {
         return(
             <section>
                 {/* edit area */}
-                <h1>Create area</h1>
+
+                <div className="main_wrapper">
+
+                </div>
             </section>
         )
     };
